@@ -36,4 +36,5 @@ namespace TelegramBotAdminPanel
             client.SendMessage(txtMsgSend.Text, TargetSend.Text);
         }
     }
+    //Комментарий
 }
